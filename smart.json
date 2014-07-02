@@ -5,5 +5,8 @@
   "author"     : "Scott Mackenzie <scott@onepixelsolid.com>",
   "version"    : "0.0.2",
   "git"        : "https://github.com/onepixelsolid/meteor-crypto-aes.git",
-  "packages"   : {}
+  "packages"   : {
+	"crypto-base": {},
+        "crypto-md5": {} 
+  }
 }
